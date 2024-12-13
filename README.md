@@ -21,7 +21,7 @@ This project aims to develop a chatbot capable of interacting with users and pro
 - **Get Answers**: The chatbot will provide responses based on the information extracted from the PDFs.  
 
 ## Sample Output
-![Output](demos/Screenshot.png)
+![Output](demos/demo_min.gif)
 
 ### WorkFlow
 ![WorkFlow](workflow.png)
